@@ -2,17 +2,6 @@
 
 This is a personal portfolio website built using React, showcasing my skills, projects, and experience.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ## Demo
 
 Include a link to a live demo of your portfolio or screenshots to provide a visual overview of your work.
@@ -23,7 +12,6 @@ Include a link to a live demo of your portfolio or screenshots to provide a visu
 - **Project Showcase:** Highlight your key projects with descriptions, images, and links.
 - **Skills Section:** List your technical skills and proficiency.
 - **Contact Form:** Allow visitors to get in touch with you through a contact form.
-- **Resume Download:** Provide a link to download your resume/CV.
 
 ## Installation
 
