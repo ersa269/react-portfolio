@@ -17,6 +17,9 @@
     height: 3rem;
     width: 4rem;
 }
+ul{
+    list-style: none;
+}
 #navbar .links li a{
     list-style: none;
     text-decoration: none;
@@ -47,8 +50,8 @@
 
 }
 .desktopMenuBtn:hover {
-    background: #d4f037; 
-    color: white; 
+    background:yellow; 
+    color: black; 
 }
 .desktopMenuBtn:hover .desktopMenubtnImg {
     filter: brightness(0) invert(1);
